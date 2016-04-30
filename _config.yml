@@ -1,8 +1,5 @@
-layout_spectrum: 0.4886895
-typography_spectrum: 0.7100256
 color:
   saturation: 0.3362955
-  lightness: 0.919118
   brandStrength: 0.789353
   rhythmicContrast: 0.8973595
   brandColors:
@@ -11,4 +8,19 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
+  lightness: 0.919118
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.4886895
+typography_spectrum: 0.7100256
 name: 'TheCats!'
