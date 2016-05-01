@@ -1,7 +1,7 @@
 name: 'The Cats!'
 favicon: null
 layout_spectrum: 0.49555
-typography_spectrum: 0.10802
+typography_spectrum: 0.12361
 collections:
   - index:
       path: /
