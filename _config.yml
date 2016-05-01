@@ -1,6 +1,6 @@
 name: 'The Cats!'
 favicon: null
-layout_spectrum: 0.50668
+layout_spectrum: 0.36414
 typography_spectrum: 0.10802
 collections:
   - index:
@@ -34,7 +34,7 @@ color:
     - '#dee4e4'
     - '#967143'
   brandStrength: 0.5
-  lightness: 1
+  lightness: 0.5
   saturation: 0.25
   rhythmicContrast: 0.75
 purpose: []
