@@ -1,6 +1,6 @@
 name: 'TheCats!'
 favicon: null
-layout_spectrum: 0.62027
+layout_spectrum: 0
 typography_spectrum: 0.59354
 collections:
   - index:
