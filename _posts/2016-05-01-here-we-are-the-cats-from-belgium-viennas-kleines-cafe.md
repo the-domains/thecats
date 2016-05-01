@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-01T09:19:00.120Z'
-dateModified: '2016-05-01T09:18:59.671Z'
+datePublished: '2016-05-01T09:20:37.486Z'
+dateModified: '2016-05-01T09:20:34.633Z'
 title: "Here we are! The Cats from Belgium @ Vienna's Kleines Café !"
 author:
   - name: ''
@@ -20,8 +21,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-url: here-we-are-the-cats-from-belgium-viennas-kleines-cafe/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Here we are! The Cats from Belgium @ Vienna's Kleines Café !
