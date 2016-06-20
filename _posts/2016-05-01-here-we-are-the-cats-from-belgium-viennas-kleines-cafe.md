@@ -6,20 +6,15 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-01T09:20:37.486Z'
-dateModified: '2016-05-01T09:20:34.633Z'
-title: "Here we are! The Cats from Belgium @ Vienna's Kleines Café !"
+datePublished: '2016-06-20T11:14:54.955Z'
+dateModified: '2016-06-20T11:02:33.661Z'
+title: Here we are! The Cats from Belgium @ Vienna's Kleines Café !
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-05-01-here-we-are-the-cats-from-belgium-viennas-kleines-cafe.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 _type: Blurb
 
