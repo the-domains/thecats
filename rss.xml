@@ -4,21 +4,21 @@
         <description><![CDATA[The Cats!]]></description>
         <link>https://thegrid.ai/thecats/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 09:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 22:23:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thecats/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ROMINA]]></title>
+            <description><![CDATA[<article><h1>ROMINA</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f4ed4a25a3756e1a7885bdc4e56e771d/croprotate.jpg?cropheight=3265&cropwidth=4896&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc709c753-f77a-4df1-ba76-6449f98e56e0.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/thecats/romina/index.html</link>
+            <guid isPermaLink="false">a7b6a192-3c3e-4247-ae5d-6e73f27583be</guid>
+            <pubDate>Fri, 22 Jul 2016 22:23:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[JAN]]></title>
             <description><![CDATA[<article><h1>JAN</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d3c5ccd-a8e3-44ea-b8b8-db64dd85bb24.jpg"></article>]]></description>
             <link>https://thegrid.ai/thecats/jan/index.html</link>
             <guid isPermaLink="false">a9ef28bc-ff6e-44d1-9e81-af1811d2cfc6</guid>
             <pubDate>Sun, 01 May 2016 09:17:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ROMINA]]></title>
-            <description><![CDATA[<h1>ROMINA</h1>]]></description>
-            <link>https://thegrid.ai/thecats/romina/index.html</link>
-            <guid isPermaLink="false">a7b6a192-3c3e-4247-ae5d-6e73f27583be</guid>
-            <pubDate>Sun, 01 May 2016 09:17:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
