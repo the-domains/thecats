@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-26T14:13:44.026Z'
-dateModified: '2016-07-26T14:13:28.831Z'
+datePublished: '2016-07-26T14:14:01.971Z'
+dateModified: '2016-07-26T14:14:01.612Z'
 author:
   - name: ''
     url: ''
@@ -16,9 +16,9 @@ via: {}
 title: Here we are! The Cats from Belgium...
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
 _type: Blurb
