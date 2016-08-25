@@ -1,28 +1,16 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-layout_spectrum: 0.74499
-cta:
-  bucket: null
-  version: null
-  domain: null
 color:
   saturation: 0.25
   brandStrength: 0.25
@@ -34,7 +22,19 @@ color:
     - '#32312d'
     - '#b9ab42'
   lightness: 0.8125
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
 favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: The Cats!
+opengraph:
+  image: null
+  type: null
+  appId: null
 typography_spectrum: 0.91425
+layout_spectrum: 0.5957447
