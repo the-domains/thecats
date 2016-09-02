@@ -28,6 +28,9 @@ navigation:
   - name: ROMINA
     id: a7b6a192-3c3e-4247-ae5d-6e73f27583be
     type: content
+  - name: JAN
+    id: a9ef28bc-ff6e-44d1-9e81-af1811d2cfc6
+    type: content
 favicon: null
 collections:
   - index:
