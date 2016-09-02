@@ -1,25 +1,32 @@
 ---
-title: Here comes the sun.. ;-)
-datePublished: '2016-08-25T19:28:25.073Z'
-dateModified: '2016-08-25T15:04:38.127Z'
-author:
-  - name: NASA Goddard
-    url: 'https://www.youtube.com/user/NASAexplorer'
-    avatar: {}
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'https://youtube.com/watch?v=GSVv40M2aks'
+inLanguage: null
+keywords: []
 description: >-
   February 11, 2015 marks five years in space for NASA's Solar Dynamics
   Observatory, which provides incredibly detailed images of the whole sun 24
   hours a day. Capturing an image more than once per second, SDO has provided an
   unprecedentedly clear picture of how massive explosions on the sun grow and
   erupt ever since its launch on Feb.
-publisher: {}
+datePublished: '2016-08-31T10:02:50.342Z'
+dateModified: '2016-08-31T10:02:49.893Z'
+title: Here comes the sun.. ;-)
+author:
+  - name: NASA Goddard
+    url: 'https://www.youtube.com/user/NASAexplorer'
+    avatar: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-25-here-comes-the-sun-.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _type: MediaObject
 
 ---
