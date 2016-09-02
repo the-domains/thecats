@@ -4,8 +4,15 @@
         <description><![CDATA[The Cats!]]></description>
         <link>https://thegrid.ai/thecats/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 10:07:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 10:08:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thecats/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ROMINA]]></title>
+            <description><![CDATA[<article><h1>ROMINA</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f4ed4a25a3756e1a7885bdc4e56e771d/croprotate.jpg?cropheight=3265&cropwidth=4896&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc709c753-f77a-4df1-ba76-6449f98e56e0.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/thecats/romina/index.html</link>
+            <guid isPermaLink="false">a7b6a192-3c3e-4247-ae5d-6e73f27583be</guid>
+            <pubDate>Wed, 31 Aug 2016 10:07:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ ]]></title>
             <description><![CDATA[<article><h1>Pluto-logo</h1><img src="https://photos-1.dropbox.com/t/2/AABFllbGBSkHArfSwpPYLRVJEPhH5JYqTUeRIkT-ZBy9MA/12/91781777/jpeg/1024x1024/2/_/0/4/Pluto-logo%3Acentr%2B%2B%2B.jpg/CJH14SsgAiAHKAIoBw/s90u1ryhiaz9fsh/AACYQpz6C_H2Tx5a_Y79hpuSa/Pluto-logo%3Acentr%2B%2B%2B.jpg"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e21532a6-2199-44dc-bd27-76aedb8be986.jpg</link>
             <guid isPermaLink="false">499947ac-17f3-4cbd-9f22-2a624fe6fa89</guid>
             <pubDate>Sat, 23 Jul 2016 17:13:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ROMINA]]></title>
-            <description><![CDATA[<article><h1>ROMINA</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f4ed4a25a3756e1a7885bdc4e56e771d/croprotate.jpg?cropheight=3265&cropwidth=4896&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc709c753-f77a-4df1-ba76-6449f98e56e0.jpg&x=0&y=0"></article>]]></description>
-            <link>https://thegrid.ai/thecats/romina/index.html</link>
-            <guid isPermaLink="false">a7b6a192-3c3e-4247-ae5d-6e73f27583be</guid>
-            <pubDate>Fri, 22 Jul 2016 22:23:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JAN]]></title>
