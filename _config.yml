@@ -31,6 +31,9 @@ navigation:
   - name: JAN
     id: a9ef28bc-ff6e-44d1-9e81-af1811d2cfc6
     type: content
+  - name: MARNIX
+    url: 'http://www.marnix.decat.be'
+    type: external
 favicon: null
 collections:
   - index:
