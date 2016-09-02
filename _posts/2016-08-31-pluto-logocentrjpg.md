@@ -1,26 +1,28 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://www.dropbox.com'
-  name: Dropbox
-  favicon: 'https://cfl.dropboxstatic.com/static/images/favicon-vflk5FiAC.ico'
-  domain: www.dropbox.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.dropbox.com/s/s90u1ryhiaz9fsh/Pluto-logo%3Acentr%2B%2B%2B.jpg?dl=0'
+inLanguage: null
 keywords: []
 description: >-
   Dropbox is a free service that lets you bring your photos, docs, and videos
   anywhere and share them easily. Never email yourself a file again!
+datePublished: '2016-08-31T10:02:27.278Z'
+dateModified: '2016-08-31T10:01:53.408Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.dropbox.com/s/s90u1ryhiaz9fsh/Pluto-logo%3Acentr%2B%2B%2B.jpg?dl=0'
 title: 'Pluto-logo:centr+++.jpg'
-datePublished: '2016-08-31T10:01:45.634Z'
-dateModified: '2016-08-31T09:43:52.725Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-31-pluto-logocentrjpg.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Dropbox
+  domain: www.dropbox.com
+  url: 'https://www.dropbox.com'
+  favicon: 'https://cfl.dropboxstatic.com/static/images/favicon-vflk5FiAC.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
