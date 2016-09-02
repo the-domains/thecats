@@ -1,7 +1,43 @@
+typography_spectrum: 0.91425
+color:
+  saturation: 0.25
+  brandStrength: 0.25
+  rhythmicContrast: 0.5
+  brandColors:
+    - '#d7ecfd'
+    - '#050908'
+    - '#6a8b3c'
+    - '#32312d'
+    - '#b9ab42'
+  lightness: 0.8125
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5957447
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: The Cats!
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: ROMINA
+    id: a7b6a192-3c3e-4247-ae5d-6e73f27583be
+    type: content
+  - name: JAN
+    id: a9ef28bc-ff6e-44d1-9e81-af1811d2cfc6
+    type: content
+  - name: MARNIX
+    url: 'http://www.marnix.decat.be'
+    type: external
+  - name: The Fab Four !
+    id: 218c9d31-ddd7-4850-8152-089d6ead5e8f
+    type: content
 favicon: null
-layout_spectrum: 0.62333
-typography_spectrum: 0.87484
 collections:
   - index:
       path: /
@@ -14,27 +50,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#d7ecfd'
-    - '#050908'
-    - '#6a8b3c'
-    - '#32312d'
-    - '#b9ab42'
-  brandStrength: 0.25
-  lightness: 0.875
-  saturation: 0.25
-  rhythmicContrast: 0.5
 purpose: []
