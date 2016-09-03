@@ -1,17 +1,25 @@
 ---
-title: The Fab Four ;-)
-datePublished: '2016-08-31T14:31:38.423Z'
-dateModified: '2016-08-31T14:28:39.947Z'
-author: []
-description: ''
-publisher: {}
-via: {}
-starred: false
-sourcePath: _posts/2016-08-31-the-fab-four-.md
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-_type: MediaObject
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-08-31T14:39:28.661Z'
+dateModified: '2016-08-31T14:39:27.817Z'
+title: The Fab Four ;-)
+author: []
+via: {}
+sourcePath: _posts/2016-08-31-the-fab-four-.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+url: the-fab-four-/index.html
+_type: Article
 
 ---
 # The Fab Four ;-)
