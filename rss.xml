@@ -4,8 +4,15 @@
         <description><![CDATA[The Cats!]]></description>
         <link>https://thegrid.ai/thecats/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 14:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 14:50:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thecats/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Süß ;-)]]></title>
+            <description><![CDATA[<article><h1>Süß ;-)</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/35a85943-5b75-4ab9-8e79-6e4be64ea91d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thecats/suss-/index.html</link>
+            <guid isPermaLink="false">711abeb9-1009-4cbd-be7c-b23a6e307de4</guid>
+            <pubDate>Wed, 31 Aug 2016 14:50:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ROMINA]]></title>
             <description><![CDATA[<article><h1>ROMINA</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f4ed4a25a3756e1a7885bdc4e56e771d/croprotate.jpg?cropheight=3265&cropwidth=4896&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc709c753-f77a-4df1-ba76-6449f98e56e0.jpg&x=0&y=0"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/thecats/the-fab-four-/index.html</link>
             <guid isPermaLink="false">80a89aea-562b-4c4c-ad7b-9068bb717594</guid>
             <pubDate>Wed, 31 Aug 2016 14:39:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Süß ;-)]]></title>
-            <description><![CDATA[<article><h1>Süß ;-)</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/35a85943-5b75-4ab9-8e79-6e4be64ea91d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thecats/suss-/index.html</link>
-            <guid isPermaLink="false">711abeb9-1009-4cbd-be7c-b23a6e307de4</guid>
-            <pubDate>Wed, 31 Aug 2016 14:39:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JAN]]></title>
