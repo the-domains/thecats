@@ -1,13 +1,35 @@
-name: The Cats!
-favicon: null
-layout_spectrum: 0.63291
 typography_spectrum: 0.1064
+color:
+  brandColors:
+    - '#d7ecfd'
+    - '#050908'
+    - '#6a8b3c'
+    - '#32312d'
+    - '#b9ab42'
+  brandStrength: 0.25
+  lightness: 0.8125
+  saturation: 0.25
+  rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.63291
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: The Cats!
+cta:
+  domain: null
+  bucket: null
+  version: null
 navigation:
-  - name: JUST the 2 of us
-    id: 711abeb9-1009-4cbd-be7c-b23a6e307de4
-    type: content
   - name: The Fab Four !
     id: 218c9d31-ddd7-4850-8152-089d6ead5e8f
+    type: content
+  - name: JUST the 2 of us
+    id: 711abeb9-1009-4cbd-be7c-b23a6e307de4
     type: content
   - name: ROMINA
     id: a7b6a192-3c3e-4247-ae5d-6e73f27583be
@@ -15,6 +37,7 @@ navigation:
   - name: JAN
     id: a9ef28bc-ff6e-44d1-9e81-af1811d2cfc6
     type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -27,27 +50,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#d7ecfd'
-    - '#050908'
-    - '#6a8b3c'
-    - '#32312d'
-    - '#b9ab42'
-  brandStrength: 0.25
-  lightness: 0.8125
-  saturation: 0.25
-  rhythmicContrast: 0.5
 purpose: []
