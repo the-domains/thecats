@@ -31,6 +31,9 @@ navigation:
   - name: The Fab Four !
     id: 218c9d31-ddd7-4850-8152-089d6ead5e8f
     type: content
+  - name: ROMINA
+    id: a7b6a192-3c3e-4247-ae5d-6e73f27583be
+    type: content
 favicon: null
 collections:
   - index:
