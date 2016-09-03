@@ -34,6 +34,9 @@ navigation:
   - name: ROMINA
     id: a7b6a192-3c3e-4247-ae5d-6e73f27583be
     type: content
+  - name: JUST the 2 of us
+    id: 711abeb9-1009-4cbd-be7c-b23a6e307de4
+    type: content
 favicon: null
 collections:
   - index:
