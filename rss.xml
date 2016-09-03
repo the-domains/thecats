@@ -4,8 +4,22 @@
         <description><![CDATA[The Cats!]]></description>
         <link>https://thegrid.ai/thecats/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 14:39:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 14:40:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thecats/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The little Four...]]></title>
+            <description><![CDATA[<article><h1>The little Four...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e21532a6-2199-44dc-bd27-76aedb8be986.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e21532a6-2199-44dc-bd27-76aedb8be986.jpg</link>
+            <guid isPermaLink="false">499947ac-17f3-4cbd-9f22-2a624fe6fa89</guid>
+            <pubDate>Wed, 31 Aug 2016 14:40:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Fab Four ;-)]]></title>
+            <description><![CDATA[<article><h1>The Fab Four ;-)</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/678d9d57-a920-4845-9daf-f4b05c8b12c9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thecats/the-fab-four-/index.html</link>
+            <guid isPermaLink="false">80a89aea-562b-4c4c-ad7b-9068bb717594</guid>
+            <pubDate>Wed, 31 Aug 2016 14:39:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Süß ;-)]]></title>
             <description><![CDATA[<article><h1>Süß ;-)</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/35a85943-5b75-4ab9-8e79-6e4be64ea91d.jpg"></article>]]></description>
@@ -40,13 +54,6 @@
             <link>https://youtube.com/watch?v=GSVv40M2aks</link>
             <guid isPermaLink="false">0248d1a0-fe39-4c20-8e24-7b67adc08310</guid>
             <pubDate>Wed, 31 Aug 2016 10:02:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The little Four...]]></title>
-            <description><![CDATA[<article><h1>The little Four...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e21532a6-2199-44dc-bd27-76aedb8be986.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e21532a6-2199-44dc-bd27-76aedb8be986.jpg</link>
-            <guid isPermaLink="false">499947ac-17f3-4cbd-9f22-2a624fe6fa89</guid>
-            <pubDate>Sat, 23 Jul 2016 17:13:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
