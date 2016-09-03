@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-31T10:08:12.673Z'
-dateModified: '2016-08-31T10:08:05.228Z'
+datePublished: '2016-08-31T17:16:59.122Z'
+dateModified: '2016-08-31T17:16:46.382Z'
 author:
   - name: ''
     url: ''
@@ -14,12 +14,8 @@ sourcePath: _posts/2016-05-01-here-we-are-the-cats-from-belgium-viennas-kleines-
 via: {}
 title: Here we are! The Cats from Belgium...
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
+publisher: {}
+starred: true
 url: here-we-are-the-cats-from-belgium/index.html
 _type: Article
 
