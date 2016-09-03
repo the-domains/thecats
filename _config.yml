@@ -40,6 +40,9 @@ navigation:
   - name: Catsongs...
     id: c416cec5-33e6-43a0-a35d-7a9e200a6fbc
     type: content
+  - name: Barbershop...
+    id: 37a1cd6a-e6a2-4da8-a6ef-1b7377ca71a4
+    type: content
 favicon: null
 collections:
   - index:
