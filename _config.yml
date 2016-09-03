@@ -34,9 +34,6 @@ navigation:
   - name: The Fab Four !
     id: 218c9d31-ddd7-4850-8152-089d6ead5e8f
     type: content
-  - name: Marnix' site
-    url: 'http://www.marnixdecat.be'
-    type: external
 favicon: null
 collections:
   - index:
