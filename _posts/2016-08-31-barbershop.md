@@ -1,15 +1,16 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-31T17:05:29.507Z'
-dateModified: '2016-08-31T17:05:24.495Z'
+datePublished: '2016-08-31T17:17:20.375Z'
+dateModified: '2016-08-31T17:17:17.647Z'
 title: Barbershop...
 author: []
 via: {}
+sourcePath: _posts/2016-08-31-barbershop.md
 authors: []
 publisher:
   name: null
@@ -17,9 +18,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-08-31-barbershop.md
 url: barbershop/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Barbershop...
