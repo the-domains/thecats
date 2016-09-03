@@ -5,18 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-31T18:04:02.689Z'
-dateModified: '2016-08-31T18:03:57.668Z'
+datePublished: '2016-08-31T18:05:48.686Z'
+dateModified: '2016-08-31T18:05:48.054Z'
 title: Barbershop...
 author: []
 via: {}
 sourcePath: _posts/2016-08-31-barbershop.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: false
 url: barbershop/index.html
 _type: WebPage
