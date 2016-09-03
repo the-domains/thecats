@@ -4,8 +4,15 @@
         <description><![CDATA[The Cats!]]></description>
         <link>https://thegrid.ai/thecats/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 17:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 17:17:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thecats/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Here we are! The Cats from Belgium...]]></title>
+            <description><![CDATA[<article><h1>Here we are! The Cats from Belgium...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a1eb1af-bf4f-49d5-9744-d2c6307d3a54.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thecats/here-we-are-the-cats-from-belgium/index.html</link>
+            <guid isPermaLink="false">9248f709-68af-458b-b9ea-32f0ee12bedb</guid>
+            <pubDate>Wed, 31 Aug 2016 17:16:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Barbershop...]]></title>
             <description><![CDATA[<article><h1>Barbershop...</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/be3e77a4354834d92d319fd1e63f4386/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2b0d1cb7-be86-4a65-bc5a-cb5765da6519.jpg&x=0&y=0"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/thecats/the-fab-four-/index.html</link>
             <guid isPermaLink="false">80a89aea-562b-4c4c-ad7b-9068bb717594</guid>
             <pubDate>Wed, 31 Aug 2016 14:39:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here we are! The Cats from Belgium...]]></title>
-            <description><![CDATA[<article><h1>Here we are! The Cats from Belgium...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a1eb1af-bf4f-49d5-9744-d2c6307d3a54.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thecats/here-we-are-the-cats-from-belgium/index.html</link>
-            <guid isPermaLink="false">9248f709-68af-458b-b9ea-32f0ee12bedb</guid>
-            <pubDate>Wed, 31 Aug 2016 10:08:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Here comes the sun.. ;-)]]></title>
