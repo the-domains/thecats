@@ -4,7 +4,7 @@
         <description><![CDATA[The Cats!]]></description>
         <link>https://thegrid.ai/thecats/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 17:50:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 18:03:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thecats/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Here we are! The Cats from Belgium...]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Wed, 31 Aug 2016 17:16:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Catsongs...]]></title>
+            <description><![CDATA[<article><h1>Catsongs...</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c97d3f8b1d10a243f2463a950f2677c4/croprotate.jpg?cropheight=2592&cropwidth=1937&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1fda1330-8cfd-4740-bb5b-dc4964539193.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/thecats/catsongs/index.html</link>
+            <guid isPermaLink="false">c416cec5-33e6-43a0-a35d-7a9e200a6fbc</guid>
+            <pubDate>Wed, 31 Aug 2016 18:03:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Süß ;-)]]></title>
             <description><![CDATA[<article><h1>Süß ;-)</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/35a85943-5b75-4ab9-8e79-6e4be64ea91d.jpg"></article>]]></description>
             <link>https://thegrid.ai/thecats/suss-/index.html</link>
             <guid isPermaLink="false">711abeb9-1009-4cbd-be7c-b23a6e307de4</guid>
             <pubDate>Wed, 31 Aug 2016 17:50:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Catsongs...]]></title>
-            <description><![CDATA[<article><h1>Catsongs...</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c97d3f8b1d10a243f2463a950f2677c4/croprotate.jpg?cropheight=2592&cropwidth=1937&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1fda1330-8cfd-4740-bb5b-dc4964539193.jpg&x=0&y=0"></article>]]></description>
-            <link>https://thegrid.ai/thecats/catsongs/index.html</link>
-            <guid isPermaLink="false">c416cec5-33e6-43a0-a35d-7a9e200a6fbc</guid>
-            <pubDate>Wed, 31 Aug 2016 17:20:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The little Four...]]></title>
