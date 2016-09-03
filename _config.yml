@@ -25,6 +25,9 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: JUST the 2 of us
+    id: 711abeb9-1009-4cbd-be7c-b23a6e307de4
+    type: content
   - name: JAN
     id: a9ef28bc-ff6e-44d1-9e81-af1811d2cfc6
     type: content
@@ -33,9 +36,6 @@ navigation:
     type: content
   - name: ROMINA
     id: a7b6a192-3c3e-4247-ae5d-6e73f27583be
-    type: content
-  - name: JUST the 2 of us
-    id: 711abeb9-1009-4cbd-be7c-b23a6e307de4
     type: content
 favicon: null
 collections:
