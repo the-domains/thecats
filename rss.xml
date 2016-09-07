@@ -4,7 +4,7 @@
         <description><![CDATA[The Cats!]]></description>
         <link>https://thegrid.ai/thecats/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 18:03:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2016 13:16:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thecats/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Here we are! The Cats from Belgium...]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/thecats/here-we-are-the-cats-from-belgium/index.html</link>
             <guid isPermaLink="false">9248f709-68af-458b-b9ea-32f0ee12bedb</guid>
             <pubDate>Wed, 31 Aug 2016 17:16:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Onze wereld...]]></title>
+            <description><![CDATA[<article><h1>Onze wereld...</h1><p>De microcosmos van de mens</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6288d3735321063980772923ceb50c2d87e6a43b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thecats/onze-wereld/index.html</link>
+            <guid isPermaLink="false">baba6db4-1c3d-45f2-9554-ca1c362916f9</guid>
+            <pubDate>Sat, 03 Sep 2016 13:16:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Catsongs...]]></title>
